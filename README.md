@@ -32,21 +32,13 @@
 ![Example](https://staticdelivery.nexusmods.com/mods/4943/images/208/208-1703195005-1010646107.jpeg)
 
 ## RULocalizationFIXWeaponnames - Модуль - Названия оружия. Переведено по подобию английской версии: Кузница Модель Вид оружия.
-English: Cadia Mk IV Assault Chainsword
-Русская: Кадия Мод IV Штурмовой пиломеч
-Офперев: Штурмовой цепной меч "Кадия" мод. IV
-
-English: Accatran Mk VIIa Recon Lasgun
-Русская: Аккатран Мод VIIa Лазвинтовка разведки
-Офперев: Разведывательный лазган Аккатрана мод. VIIa
-
-English: Brute-Brainer Mk III Latrine Shovel
-Русская: Дуболом Мод III Сортирная лопата
-Офперев: Малая саперная лопата "Дуболом" мод. III
+### English: Cadia Mk IV Assault Chainsword
+### Русская: Кадия Мод IV Штурмовой пиломеч
+### Офперев: Штурмовой цепной меч "Кадия" мод. IV
 
 # +++------------------------------------------------+++
 
-Download from: [Nexus](https://www.nexusmods.com/warhammer40kdarktide/mods/208)
+Скачать также можно тут: [Nexus](https://www.nexusmods.com/warhammer40kdarktide/mods/208)
 # +++------------------------------------------------+++
 
 [Darktide - Таланты. Google-таблица с Талантами.](https://docs.google.com/spreadsheets/d/17dHDZuDqKM3MNL9VKrO2o8NfAw6uZMiSBNhaoUwxlM0/edit#gid=0)
