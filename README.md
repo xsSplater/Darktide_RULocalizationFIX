@@ -1,3 +1,6 @@
+# УСТАРЕЛО! Всё это будет перенесено в мод Enhanced Descriptions.
+### Оставлено для истории.
+
 Выражаю искреннюю благодарность товарищу deluxghost за возможность сделать этот мод!
 [![Enhanced RU Localization](https://staticdelivery.nexusmods.com/mods/4943/images/headers/208_1694256906.jpg)](https://www.nexusmods.com/warhammer40kdarktide/mods/208)
 
